@@ -31,7 +31,7 @@ class Topscore:
 
 topscore = Topscore()
 
-
+#comment this line is to separate comments
 class Dragon:
     dragon_velocity = 10
 
